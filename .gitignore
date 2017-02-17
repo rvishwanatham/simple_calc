@@ -1,0 +1,13 @@
+# Build Files #
+
+bin
+target
+build/
+
+# Eclipse Project Files #
+
+.classpath
+.project
+.settings
+
+pom_org.xml
